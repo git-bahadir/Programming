@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/chakra/Programming/Java/TestScrapper/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/chakra/Programming/Java/TestScrapper/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/chakra/Programming/Java/TestScrapper/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/home/chakra/Programming/Java/TestScrapper/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="/home/chakra/Programming/Java/TestScrapper/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/chakra/Programming/Java/TestScrapper/lib/cssparser-0.9.15.jar"/>
+	<classpathentry kind="lib" path="/home/chakra/Programming/Java/TestScrapper/lib/htmlunit-2.16.jar"/>
+	<classpathentry kind="lib" path="/home/chakra/Programming/Java/TestScrapper/lib/htmlunit-core-js-2.16.jar"/>
+	<classpathentry kind="lib" path="/home/chakra/Programming/Java/TestScrapper/lib/httpclient-4.4.1.jar"/>
+	<classpathentry kind="lib" path="/home/chakra/Programming/Java/TestScrapper/lib/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="/home/chakra/Programming/Java/TestScrapper/lib/httpmime-4.4.1.jar"/>
+	<classpathentry kind="lib" path="/home/chakra/Programming/Java/TestScrapper/lib/jetty-io-9.2.10.v20150310.jar"/>
+	<classpathentry kind="lib" path="/home/chakra/Programming/Java/TestScrapper/lib/jetty-util-9.2.10.v20150310.jar"/>
+	<classpathentry kind="lib" path="/home/chakra/Programming/Java/TestScrapper/lib/nekohtml-1.9.22.jar"/>
+	<classpathentry kind="lib" path="/home/chakra/Programming/Java/TestScrapper/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/chakra/Programming/Java/TestScrapper/lib/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="/home/chakra/Programming/Java/TestScrapper/lib/websocket-api-9.2.10.v20150310.jar"/>
+	<classpathentry kind="lib" path="/home/chakra/Programming/Java/TestScrapper/lib/websocket-client-9.2.10.v20150310.jar"/>
+	<classpathentry kind="lib" path="/home/chakra/Programming/Java/TestScrapper/lib/websocket-common-9.2.10.v20150310.jar"/>
+	<classpathentry kind="lib" path="/home/chakra/Programming/Java/TestScrapper/lib/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="/home/chakra/Programming/Java/TestScrapper/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="/home/chakra/Programming/Java/TestScrapper/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

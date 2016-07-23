@@ -1,0 +1,22 @@
+load doortheta.mat;
+dtheta=theta;
+clear theta;
+load addtheta.mat;
+atheta=theta;
+clear theta;
+load lmtheta.mat;
+lmtheta=theta;
+clear theta;
+
+load testset;
+test_X=testset(:,1:50);
+test_y=testset(:,51);
+test_y(find(test_y==1),1)=1;
+test_y(find(test_y==2),1)=0;
+test_y(find(test_y==3),1)=0;
+
+
+CV_X= [ones(size(CV_X,1), 1) CV_X];
+pred = predict(theta,CV_X);
+fprintf('\nTraining Set Accuracy: %f\n', mean(double(pred == CV_y)) * 100);
+save -binary lmtheta.mat theta;

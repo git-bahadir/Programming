@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/sharedat/jar/htmlunit-2.16/lib/htmlunit-2.16.jar"/>
+	<classpathentry kind="lib" path="/sharedat/jar/htmlunit-2.16/lib/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="/sharedat/jar/htmlunit-2.16/lib/websocket-api-9.2.10.v20150310.jar"/>
+	<classpathentry kind="lib" path="/sharedat/jar/htmlunit-2.16/lib/websocket-common-9.2.10.v20150310.jar"/>
+	<classpathentry kind="lib" path="/sharedat/jar/htmlunit-2.16/lib/jetty-io-9.2.10.v20150310.jar"/>
+	<classpathentry kind="lib" path="/sharedat/jar/htmlunit-2.16/lib/jetty-util-9.2.10.v20150310.jar"/>
+	<classpathentry kind="lib" path="/sharedat/jar/htmlunit-2.16/lib/websocket-client-9.2.10.v20150310.jar"/>
+	<classpathentry kind="lib" path="/sharedat/jar/htmlunit-2.16/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/sharedat/jar/htmlunit-2.16/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="/sharedat/jar/htmlunit-2.16/lib/cssparser-0.9.15.jar"/>
+	<classpathentry kind="lib" path="/sharedat/jar/htmlunit-2.16/lib/nekohtml-1.9.22.jar"/>
+	<classpathentry kind="lib" path="/sharedat/jar/htmlunit-2.16/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/sharedat/jar/htmlunit-2.16/lib/httpclient-4.4.1.jar"/>
+	<classpathentry kind="lib" path="/sharedat/jar/htmlunit-2.16/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="/sharedat/jar/htmlunit-2.16/lib/htmlunit-core-js-2.16.jar"/>
+	<classpathentry kind="lib" path="/sharedat/jar/htmlunit-2.16/lib/httpmime-4.4.1.jar"/>
+	<classpathentry kind="lib" path="/sharedat/jar/htmlunit-2.16/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/sharedat/jar/htmlunit-2.16/lib/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="/sharedat/jar/htmlunit-2.16/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="/sharedat/jar/htmlunit-2.16/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/sharedat/jar/htmlunit-2.16/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="/sharedat/jar/htmlunit-2.16/lib/serializer-2.7.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
